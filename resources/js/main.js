@@ -10,6 +10,7 @@ resultsquare=(side*4)
 alert('Perimeter of your square is '+resultsquare+'cm')
 
 radius=prompt('How many cantimeters is radius?')
+alert('the area of your circle is '+((radius**2)*3.14))
 console.log('the area of your circle is '+((radius**2)*3.14))
 
 distance=prompt('how much distance? (km)')
